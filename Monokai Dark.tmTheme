@@ -24,6 +24,33 @@
             </dict>
         </dict>
         <dict>
+          <key>scope</key>
+          <string>meta.whitespace.leading</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#8C8C8C00</string>
+          </dict>
+        </dict>
+        <dict>
+          <key>scope</key>
+          <string>meta.whitespace.trailing</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#FF0000</string>
+          </dict>
+        </dict>
+        <dict>
+          <key>scope</key>
+          <string>meta.whitespace</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#8C8C8C90</string>
+          </dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>Comment</string>
             <key>scope</key>
